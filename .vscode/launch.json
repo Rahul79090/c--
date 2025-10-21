@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rajukumarsahani/Desktop/c--/c++/c++/r.cpp/first.cpp",
+      "program": "/Users/rajukumarsahani/Desktop/c--/c++/c++/r.cpp/first.cpp/build/Debug/outDebug"
+    }
+  ]
+}
